@@ -17,7 +17,7 @@ Here, I'll keep track of the number of problems solved, categorized by difficult
 
 - Easy: 1
 - Medium: 1
-- Hard: 0
+- Hard: 1
 
 ## Contributing
 
