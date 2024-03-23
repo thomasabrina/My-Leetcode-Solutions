@@ -13,7 +13,7 @@ Return `true` if there is a cycle in the linked list. Otherwise, return `false`.
   - **Output:** true
   - **Explanation:** There is a cycle in the linked list, where the tail connects to the 1st node (0-indexed).
   
-  ![Circular Linked List Example 1](circularlinkedlist.png "Circular Linked List Example 1")
+  ![Circular Linked List Example 1](circularlinkedlist_test1.png "Circular Linked List Example 1")
 
 - **Example 2:**
   - **Input:** head = [1,2], pos = 0

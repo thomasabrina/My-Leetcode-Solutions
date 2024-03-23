@@ -13,7 +13,7 @@ Do not modify the linked list.
   - **Output:** tail connects to node index 1
   - **Explanation:** There is a cycle in the linked list, where the tail connects to the second node.
 
-  ![Circular Linked List Example 1](circularlinkedlist.png "Circular Linked List Example 1")
+  ![Circular Linked List Example 1](circularlinkedlist_test1.png "Circular Linked List Example 1")
 
 - **Example 2:**
   - **Input:** head = [1,2], pos = 0
