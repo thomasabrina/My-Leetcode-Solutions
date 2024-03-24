@@ -15,7 +15,7 @@ LeetCode is a platform for enhancing coding skills and preparing for software en
 
 Here, I'll keep track of the number of problems solved, categorized by difficulty:
 
-- Easy: 4
+- Easy: 5
 - Medium: 3
 - Hard: 1
 
