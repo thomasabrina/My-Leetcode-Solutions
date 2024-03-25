@@ -31,7 +31,7 @@ Given the head of a linked list and an integer `val`, remove all nodes from the 
 Removing elements with given value from a linked list can be done either by using the original linked list directly or setting up a dummy head node. Both approaches offer their own benefits and can be implemented effectively.
 
 - **Using the original linked list directly:** In this method, the operation of removing the head node is different from removing other nodes because other nodes in the linked list are removed by updating the next pointer of the previous node to skip the current node, whereas the head node does not have a previous node. So, how do we remove the head node? In fact, it is sufficient to simply move the head pointer to the next node. This effectively removes a head node from the linked list. The code for this method is like:   
-```
+```java
 public ListNode removeElements(ListNode head, int val) {
     // Iterate through the list to remove all consecutive head nodes with the value 'val'
     while (head != null && head.val == val) {
@@ -59,7 +59,7 @@ public ListNode removeElements(ListNode head, int val) {
 }
 ```   
 You can also solve this problem without pre Node:   
-```
+```java
 public ListNode removeElements(ListNode head, int val) {
     // Remove consecutive head nodes with the value 'val'
     while(head != null && head.val == val) {
