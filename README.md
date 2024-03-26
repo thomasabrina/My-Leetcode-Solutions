@@ -1,6 +1,6 @@
 # My-Leetcode-Solutions(1.0-Java)
 
-Welcome to my LeetCode solutions repository! This space is dedicated to documenting my journey through solving problems on [LeetCode](https://leetcode.com/thomasabrina/). The primary goal of this repository is to keep track of my progress, share my solutions, and reflect on the learning process. 
+Welcome to my LeetCode solutions repository! This space is dedicated to documenting my journey through solving problems on Leetcode and you can check my Leetcode page[Here!](https://leetcode.com/thomasabrina/). The primary goal of this repository is to keep track of my progress, share my solutions, and reflect on the learning process. 
 
 ## Introduction
 
