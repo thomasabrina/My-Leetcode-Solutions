@@ -33,7 +33,7 @@ Reversing a singly linked list can be achieved through various methods, each off
 
 #### Iterative Approach:
 
-- **Overview:** This method involves traversing the list while maintaining references to the previous, current, and temporary nodes. By manipulating these pointers, the direction of each link is reversed until the traversal reaches the end of the list.
+- **Overview:** This method involves traversing the list while maintaining references to the previous, current, and temporary nodes. By manipulating these pointers, the direction of each link is reversed until the traversal reaches the end of the list. Actually, we can also use a dummyHead, just replace `pre` with `dummyHead.next`.
   
 - **Implementation Steps:**
   1. Initialize three pointers: `pre` (previous node), `cur` (current node), and `temp` (temporary node).
